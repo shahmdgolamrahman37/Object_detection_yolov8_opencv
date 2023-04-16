@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/yolov8/data/train/images
+val: /content/drive/MyDrive/yolov8/data/valid/images
+
+nc: 2
+names: ['dog', 'cat']
